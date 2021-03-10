@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ElbaEat</string>
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Log in</string>
+    <string name="action_sign_in_short">Log in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="logout">Logout</string>
+    <string name="togglePorto">Portoferraio</string>
+    <string name="toggleMarina">Campo N\'ell Elba</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>

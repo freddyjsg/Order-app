@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683888651077",
+    "project_id": "elbaeat-3cfd7",
+    "storage_bucket": "elbaeat-3cfd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683888651077:android:a011e58a5af22c690b6c2c",
+        "android_client_info": {
+          "package_name": "com.example.elbaeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683888651077-jsdcqasuialf9e2oivtabu51q79hmqqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5daD-Jz0Wgaxr1m8-zprnRAf8JAwSla4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683888651077-jsdcqasuialf9e2oivtabu51q79hmqqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
